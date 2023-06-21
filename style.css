@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+.carousel-inner{
+    width: 97%;
+    margin: 5px auto;
+    border: 1px solid grey;
+}
+.logo, .foot-img{
+    width: 60px;
+}
+header{
+    max-height: 70px;
+    margin: 0;
+    width: 98vw;
+    background-color: white;
+}
+#nav-bar{
+    position: fixed;
+    z-index: 3;
+}
+.carousel{
+    padding-top: 100px;
+    scroll-behavior: auto;
+}
+h2{
+    font-size: 3rem;
+    font-weight: bold;
+}
